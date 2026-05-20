@@ -91,6 +91,6 @@ Initial repositories will appear as projects become clean enough to stand alone.
 
 ## Maintainer
 
-Built by [BAMN](https://github.com/B-A-M-N).
+Built by [B-A-M-N](https://github.com/B-A-M-N).
 
 Personal experiments, forks, and rough prototypes may remain on my main profile. Standalone systems, cleaner releases, and reusable workflow infrastructure will live here.
